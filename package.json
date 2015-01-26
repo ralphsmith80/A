@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ralphsmith80/A/issues"
   },
-  "homepage": "https://github.com/ralphsmith80/A"
+  "homepage": "https://github.com/ralphsmith80/A",
+  "dependencies": {
+    "B": "git+ssh://git@github.com:ralphsmith80/B.git"
+  }
 }
