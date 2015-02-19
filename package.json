@@ -17,7 +17,8 @@
   },
   "homepage": "https://github.com/ralphsmith80/A",
   "dependencies": {
-    "B": "git+ssh://git@github.com:ralphsmith80/B.git"
+    "B": "git+ssh://git@github.com:ralphsmith80/B.git",
+    "D": "git+ssh://git@github.com:ralphsmith80/D.git"
   },
   "devDependencies": {
     "C": "git+ssh://git@github.com:ralphsmith80/C.git"
